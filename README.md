@@ -15,8 +15,8 @@ Para o desenvolvimento foram utilizados como seguintes tecnologias:
 
 ### ☑️ Solução
 
-3. A solução das questões estão divididas em 3 arquivos .java **( QuestaoUm.java, QuestaoDois.java e QuestãoTres.java)** no diretório "**src/br/com/capgemini/desafio/funcoes/**"
-4. Para rodar a solução selecione **QuestaoUm.java, QuestaoDois.java ou QuestãoTres.java** e execute a aplicação
+3. A solução das questões estão divididas em 3 arquivos .java **( QuestaoUm.java, QuestaoDois.java e QuestãoTres.java)** no diretório "**src/br/com/capgemini/desafio/funcoes/**".
+4. Para rodar a solução selecione **QuestaoUm.java, QuestaoDois.java ou QuestãoTres.java** e execute a aplicação.
 
 ### ✅ Testes
 
