@@ -1,7 +1,7 @@
 # Desafio-de-Programacao-Capgemini-TurmaB
 ![](https://www.capgemini.com/br-pt/wp-content/themes/capgemini-komposite/assets/images/logo.svg)
 
-> O objetivo dessa proposta de solução é detalhar a resolução em JAVA das propostas no Desafio de Programamini, assim como as intruções de rodar a aplicação.
+> O objetivo dessa proposta de solução é detalhar a resolução em JAVA das propostas no Desafio de Programação Capgemini, assim como as intruções de rodar a aplicação.
 ***
 ## 💻 Tecnologias utilizadas
 Para o desenvolvimento foram utilizados como seguintes tecnologias:
