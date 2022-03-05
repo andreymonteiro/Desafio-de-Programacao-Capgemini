@@ -1,5 +1,5 @@
 # Desafio-de-Programacao-Capgemini-TurmaB
-![](https://www.capgemini.com/br-pt/wp-content/themes/capgemini-komposite/assets/images/logo.svg)
+![](http://capgemini.proway.com.br/assets/img/logo-capgemini.png)
 
 > O objetivo dessa proposta de solução é detalhar a resolução em JAVA das propostas no Desafio de Programação Capgemini, assim como as intruções de rodar a aplicação.
 ***
