@@ -7,7 +7,7 @@
 Para o desenvolvimento foram utilizados como seguintes tecnologias:
 
 >- Java - Linguagem de Programação
->- JUnit - Testes unitários
+>- JUnit 5 - Testes unitários
 ## ⏯️ Rodando o Projeto
 
 1. Copie ou baixe o projeto na sua máquina.
@@ -15,12 +15,12 @@ Para o desenvolvimento foram utilizados como seguintes tecnologias:
 
 ### ☑️ Solução
 
-3. A solução das questões estão divididas em 3 arquivos .java **( Questao01.java, Questao02.java e Questão03.java)** no diretório "**src/br/com/capgemini/desafio/funcoes/**".
+3. A solução das questões estão divididas em 3 arquivos .java **( Questao01.java, Questao02.java e Questão03.java)** no diretório "**src/main/java/questoes/**".
 4. Para rodar a solução selecione **Questao01.java, Questao02.java ou Questão03.java** e execute a aplicação.
 
 ### ✅ Testes
 
-5. Os testes unitários estão divididos em 3 arquivos .java **( Questao01Test.java, Questao02Test.java e Questão03Test.java)** no diretório "**src/br/com/capgemini/desafio/testes/**".
+5. Os testes unitários estão divididos em 3 arquivos .java **( Questao01Test.java, Questao02Test.java e Questão03Test.java)** no diretório "**src/test/java/questoes/**".
 6. Para rodar os testes enviados.java **Questao01Test, Questao02Test.java ou Questao03Test.java** e os execute.
 
 # 📘 Questões
