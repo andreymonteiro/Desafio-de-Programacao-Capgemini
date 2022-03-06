@@ -15,13 +15,13 @@ Para o desenvolvimento foram utilizados como seguintes tecnologias:
 
 ### ☑️ Solução
 
-3. A solução das questões estão divididas em 3 arquivos .java **( QuestaoUm.java, QuestaoDois.java e QuestãoTres.java)** no diretório "**src/br/com/capgemini/desafio/funcoes/**".
-4. Para rodar a solução selecione **QuestaoUm.java, QuestaoDois.java ou QuestãoTres.java** e execute a aplicação.
+3. A solução das questões estão divididas em 3 arquivos .java **( Questao01.java, Questao02.java e Questão03.java)** no diretório "**src/br/com/capgemini/desafio/funcoes/**".
+4. Para rodar a solução selecione **Questao01.java, Questao02.java ou Questão03.java** e execute a aplicação.
 
 ### ✅ Testes
 
-5. Os testes unitários estão divididos em 3 arquivos .java **( QuestaoUmTeste.java, QuestaoDoisTeste.java e QuestãoTresTeste.java)** no diretório "**src/br/com/capgemini/desafio/testes/**".
-6. Para rodar os testes enviados.java **QuestaoUmTeste, QuestionaoDoisTeste.java ou QuestãoTresTeste.java** e os execute.
+5. Os testes unitários estão divididos em 3 arquivos .java **( Questao01Test.java, Questao02Test.java e Questão03Test.java)** no diretório "**src/br/com/capgemini/desafio/testes/**".
+6. Para rodar os testes enviados.java **Questao01Test, Questao02Test.java ou Questao03Test.java** e os execute.
 
 # 📘 Questões
 
